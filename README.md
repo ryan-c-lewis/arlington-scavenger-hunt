@@ -38,3 +38,4 @@
 * **300 pts** - 2-in-1 Fast Food Place
 * **300 pts** - Huge floating vacuum cleaners
 * **300 pts** - Boat in a parking lot
+* **300 pts** - A Mosaic member NOT related to someone in the Student MC
