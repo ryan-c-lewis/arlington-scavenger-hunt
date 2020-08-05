@@ -6,6 +6,7 @@
 * You have to be standing outside the car for each picture
 * Be back at the LaTours' by the time limit. 10 points deducted for each minute you're late
 * Don't go inside any buildings
+* Adult driver can't help. They just drive where you tell them.
 
 
 ### SPORTS ###
