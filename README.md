@@ -36,3 +36,5 @@
 * **200 pts** - Abandoned toy store
 * **200 pts** - Tortoise
 * **200 pts** - Top of a parking deck
+* **200 pts** - Furniture/appliance left on the side of the road
+* **200 pts** - Shoe hanging on a wire
