@@ -1,4 +1,4 @@
-# Arlington Scavenger Hunt - August 5, 2020
+# Arlington Scavenger Hunt
 
 ### RULES ###
 
