@@ -28,13 +28,13 @@
 
 
 ### MISC ###
-* **200 pts** - Porta-potty
-* **200 pts** - 2-in-1 Fast Food Place
-* **200 pts** - Huge floating vacuum cleaners
-* **200 pts** - Boat in a parking lot
 * **200 pts** - Graveyard
 * **200 pts** - Abandoned toy store
 * **200 pts** - Tortoise
 * **200 pts** - Top of a parking deck
-* **200 pts** - Furniture/appliance left on the side of the road
-* **200 pts** - Shoe hanging on a wire
+* **300 pts** - Furniture/appliance left on the side of the road
+* **300 pts** - Shoe hanging on a wire
+* **300 pts** - Porta-potty
+* **300 pts** - 2-in-1 Fast Food Place
+* **300 pts** - Huge floating vacuum cleaners
+* **300 pts** - Boat in a parking lot
