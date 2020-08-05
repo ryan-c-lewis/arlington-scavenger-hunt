@@ -18,8 +18,8 @@
 
 
 ### ART ###
-* **50 pts for EACH** thing on this page: https://www.arlingtontx.gov/residents/about_arlington/public_art
-* **50 pts for EACH** of the 17 painted stars all over downtown.
+* **100 pts for EACH** thing on this page: https://www.arlingtontx.gov/residents/about_arlington/public_art
+* **100 pts for EACH** of the 17 painted stars all over downtown.
 
 
 ### HISTORY ###
@@ -35,3 +35,4 @@
 * **200 pts** - Graveyard
 * **200 pts** - Abandoned toy store
 * **200 pts** - Tortoise
+* **200 pts** - Top of a parking deck
