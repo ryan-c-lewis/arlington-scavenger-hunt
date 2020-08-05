@@ -1,9 +1,12 @@
-# arlington-scavenger-hunt
+# Arlington Scavenger Hunt - August 5, 2020
 
 RULES
 Everyone in your group (except the adult driver) must be in each picture
+
 You have to be standing outside the car for each picture
-Be back at the LaTours' (2410 Lakeside Drive) by the time limit. 10 points deducted for each minute you're late
+
+Be back at the LaTours' by the time limit. 10 points deducted for each minute you're late
+
 Don't go inside any buildings
 
 
