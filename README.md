@@ -10,10 +10,10 @@
 
 ### SPORTS ###
 * **100 pts** - Not sure why we needed this fancy new one, but whatever
-* **100 pts** - Thousands of people go here to hang out after Cowboys games
-* **200 pts** - This Cowboys museum just looks like a house
-* **300 pts** - The best bodybuilder in history used to work out here
-* **300 pts** - The first pick of the 2000 NBA draft used to live in this mansion
+* **200 pts** - Thousands of people go here to hang out after Cowboys games
+* **300 pts** - This Cowboys museum just looks like a house
+* **400 pts** - The best bodybuilder in history used to work out here
+* **400 pts** - The first pick of the 2000 NBA draft used to live in this mansion
 
 
 
@@ -32,4 +32,6 @@
 * **200 pts** - 2-in-1 Fast Food Place
 * **200 pts** - Huge floating vacuum cleaners
 * **200 pts** - Boat in a parking lot
+* **200 pts** - Graveyard
 * **200 pts** - Abandoned toy store
+* **200 pts** - Tortoise
